@@ -8,11 +8,11 @@ The objective of this prototype is to prevent VAT fraud, enhance system efficien
 ## Overview
 #### [Whitepaper](Whitepaper.md): The fundamentals behind the smart contracts
 ### Smart Contracts
-#### ReceiptTokenContract: Creates ReceiptTokens for the buyer & seller
-#### VATTokenContract Switzerland: Contract to pay VAT in Switzerland
-#### VATTokenContract Germany: Contract to pay VAT in Germany
-#### CrossBorderContract: Contract for cross-border transactions
-#### Oracle: Contract to similate an oracle for the exchange rates and VAT rates at the address 0x1ee17f86785fB0Ea5ff5B5D59DCeA41713eCEcF8
+#### [ReceiptTokenContract](https://github.com/darioganz/Tokenization/blob/e121edd0248b3af3e3193dee1b615cb22fcc49dc/VAT%20Fraud/ReceiptTokenContract.sol): Creates ReceiptTokens for the buyer & seller
+#### [VATTokenContract Switzerland](https://github.com/darioganz/Tokenization/blob/e121edd0248b3af3e3193dee1b615cb22fcc49dc/VAT%20Fraud/VATToken_CH.sol): Contract to pay VAT in Switzerland
+#### [VATTokenContract Germany](https://github.com/darioganz/Tokenization/blob/e121edd0248b3af3e3193dee1b615cb22fcc49dc/VAT%20Fraud/VATToken_DE.sol): Contract to pay VAT in Germany
+#### [CrossBorderContract](https://github.com/darioganz/Tokenization/blob/e121edd0248b3af3e3193dee1b615cb22fcc49dc/VAT%20Fraud/CrossBorderContract.sol): Contract for cross-border transactions
+#### [Oracle](https://github.com/darioganz/Tokenization/blob/e121edd0248b3af3e3193dee1b615cb22fcc49dc/VAT%20Fraud/Oracle.sol): Contract to similate an oracle for the exchange rates and VAT rates at the address 0x1ee17f86785fB0Ea5ff5B5D59DCeA41713eCEcF8
 
 ### NatSpec Format
 - **[Solidity Documention](https://docs.soliditylang.org/en/latest/natspec-format.html)**
