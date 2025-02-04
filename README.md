@@ -9,7 +9,7 @@ A **blockchain-based peer-to-peer lending marketplace** that connects borrowers 
 - **Secure transactions using stablecoins (USDC).**
 - **Prevention of reentrancy attacks** through robust smart contract design.
 
-🔗 [Read the Marketplace Dynamics]([https://github.com/](https://github.com/darioganz/Tokenization/blob/a1c31020395dbfd6e484b606dd5001073fe9b346/P2P%20Lending/Marketplace%20Dynamics.pdf))
+🔗 [Read the Marketplace Dynamics](https://github.com/darioganz/Tokenization/blob/a1c31020395dbfd6e484b606dd5001073fe9b346/P2P%20Lending/Marketplace%20Dynamics.pdf)
 
 ---
 
