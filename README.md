@@ -9,7 +9,7 @@ A **blockchain-based peer-to-peer lending marketplace** that connects borrowers 
 - **Secure transactions using stablecoins (USDC).**
 - **Prevention of reentrancy attacks** through robust smart contract design.
 
-🔗 [Explore the Code](https://github.com/SCL-Project/Tokenization/tree/main/P2P%20Lending)
+🔗 [Read the Marketplace Dynamics](https://github.com/)
 
 ---
 
