@@ -22,7 +22,7 @@ An innovative **blockchain-based VAT compliance system** designed to tackle VAT 
 - **Automated VAT collection and refund system**, ensuring real-time compliance.
 - **Oracle integration** for VAT rate adjustments based on official government data.
 
-🔗 [Read the Whitepaper](VAT%20Fraud/Whitepaper.md)
+🔗 [Read the Whitepaper](https://github.com/darioganz/Tokenization/blob/c0eba6712b6d9efb970e81d0b21883e16b667d8f/VAT%20Fraud/Whitepaper.md)
 
 ---
 
