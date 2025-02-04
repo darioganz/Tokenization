@@ -14,11 +14,11 @@ A **blockchain-based peer-to-peer lending marketplace** that connects borrowers 
 ---
 
 ## **2. VAT Fraud Prevention with Smart Contracts**
-An innovative **blockchain-based VAT compliance system** designed to tackle VAT fraud and enhance tax transparency between **Switzerland and Germany**. The system utilizes **ERC20-based VATTokens** for tax payments and **ERC721-based ReceiptTokens** as unfalsifiable proofs of transactions, ensuring complete traceability and compliance.
+An innovative **blockchain-based VAT compliance system** designed to tackle VAT fraud and enhance tax transparency between **Switzerland and Germany**. The system utilizes **ERC20-based VAT-Tokens** for tax payments and **ERC721-based Receipt-Tokens** as unfalsifiable proofs of transactions, ensuring complete traceability and compliance.
 
 🔹 **Key Features**:
 - **VAT fraud prevention** through **smart contract automation**.
-- **Cross-border tax compliance** with a **CrossBorderContract** handling tax adjustments.
+- **Cross-border tax compliance** with a **Cross-Border-Contract** handling tax adjustments.
 - **Automated VAT collection and refund system**, ensuring real-time compliance.
 - **Oracle integration** for VAT rate adjustments based on official government data.
 
