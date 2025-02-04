@@ -26,6 +26,4 @@ An innovative **blockchain-based VAT compliance system** designed to tackle VAT 
 
 ---
 
-Both projects demonstrate expertise in **blockchain development, smart contracts, and decentralized finance (DeFi)**. The P2P Lending Platform showcases **financial innovation**, while the VAT system highlights **regulatory tech (RegTech) and enterprise blockchain applications**. 
-
-🚀 **Built using Solidity, Web3.js, and Ethereum smart contracts.**
+Both projects demonstrate expertise in **blockchain development, smart contracts, and decentralized finance (DeFi)**. The P2P Lending Platform showcases **financial innovation**, while the VAT system highlights **regulatory tech (RegTech) and enterprise blockchain applications**.
