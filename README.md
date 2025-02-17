@@ -1,6 +1,6 @@
 # **Tokenization Projects**
 
-## **1. P2P Lending Platform**
+## **1. Blockchain-based P2P Lending Platform**
 A **blockchain-based peer-to-peer lending marketplace** that connects borrowers and lenders in a secure, transparent, and automated environment. Built on **Ethereum's smart contracts**, it leverages **USDC stablecoins** and **MetaMask integration** to facilitate direct lending without intermediaries. The platform ensures trust through **automated loan approvals**, **secure repayments**, and compliance with **Swiss financial regulations**.
 
 🔹 **Key Features**:
@@ -13,7 +13,7 @@ A **blockchain-based peer-to-peer lending marketplace** that connects borrowers 
 
 ---
 
-## **2. VAT Fraud Prevention with Smart Contracts**
+## **2. Prototype for VAT Fraud Prevention through Smart Contracts**
 An innovative **blockchain-based VAT compliance system** designed to tackle VAT fraud and enhance tax transparency between **Switzerland and Germany**. The system utilizes **ERC20-based VAT-Tokens** for tax payments and **ERC721-based Receipt-Tokens** as unfalsifiable proofs of transactions, ensuring complete traceability and compliance.
 
 🔹 **Key Features**:
